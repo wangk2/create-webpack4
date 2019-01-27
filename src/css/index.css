@@ -1,0 +1,10 @@
+body{
+  color:#dad;
+  font-size: 20px;
+}
+.img{
+  background-image: url(../imgs/kuli.jpg);
+  background-repeat: no-repeat;
+  width:466px;
+  height:453px;
+}
